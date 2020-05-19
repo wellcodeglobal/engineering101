@@ -1,9 +1,9 @@
 # Engineering101
 Guides to become the finest stalion of Wellcode.IO
 
-
 TLDR;
-#### The use of HTTP request method according to its task
+
+#### 1. The use of HTTP request method according to its task
 
 > POST, PUT/PATCH, DELETE
 > This request is not cachable therefor it is safe to perform a database write operation and must using this method
@@ -14,7 +14,7 @@ TLDR;
 
 
 
-#### Memoization in Rails
+#### 2. Memoization in Rails
 Memoization means the optimization technique where you memorize previously computed results, which will be used whenever the same result will be needed.
 example:
 ```
@@ -27,12 +27,12 @@ It will leverage the readable of the code and the additional benefit of lazy ini
 
 
 
-#### Rule of use - IF/ELSE 
+#### 3. Rule of use - IF/ELSE 
 1. Only use `unless` in a oneliner if statement
 2. oneliner `if/unless` statement must have characters's length less than half of screen view + NerdTree 
 
 
-#### View -> SLIM Template engine
+#### 4. View -> SLIM Template engine
 > How to handle if element that have many attribute(dataset, etc.) which cause to a long oneline code?
 
 Handling many attribute
@@ -54,6 +54,6 @@ Handling many dataset
 ```
 
 
-#### " & '
+#### 5. " & '
 1. `"` should be used when there is string interpolation
 2. `'` should be used when there just an ordinadry string without interpolation
