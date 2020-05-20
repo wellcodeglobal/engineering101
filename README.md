@@ -1,6 +1,16 @@
 # Engineering101
 Guides to become the finest stalion of Wellcode.IO
 
+
+### List of content
+1. [The use of HTTP request method according to its task](#1-the-use-of-http-request-method-according-to-its-task)
+2. [Memoization in Rails](#2-memoization-in-rails)
+3. [Rule of use - IF/ELSE ](#3-rule-of-use---ifelse)
+4. [View -> SLIM Template engine](#4-view---slim-template-engine)
+5. [" & '](#5---)
+6. [HTML class name convention](#6-html-class-name-convention)
+
+
 TLDR;
 
 #### 1. The use of HTTP request method according to its task
