@@ -71,11 +71,11 @@ Handling many dataset
 
 #### 6. HTML class name convention
 1. Class name used particularly by JS and CSS should be differentiate to increase the ease of refactoring the code.
-> prefix class name with `js-` for class name that used by JS
+###### prefix class name with `js-` for class name that used by JS
 ```
 .order__item--shipped.js-item
 ```
-> JS only allowed to call element with prefix `js-` in selecting element/s
+###### JS only allowed to call element with prefix `js-` in selecting element/s
 ```
 document.querySelector('.js-item')
 ```
