@@ -55,5 +55,5 @@ Handling many dataset
 
 
 #### 5. " & '
-1. `"` should be used when there is string interpolation
-2. `'` should be used when there just an ordinadry string without interpolation
+1. `"` should be used when there are string interpolation
+2. `'` should be used when there are just an ordinary string without interpolation
