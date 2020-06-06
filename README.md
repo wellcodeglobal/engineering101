@@ -38,9 +38,9 @@ It will leverage the readable of the code and the additional benefit of lazy ini
 
 
 #### 3. Rule of use - IF/ELSE 
-1. Only use `unless` in a oneliner if statement
+1. `unless` can only be used in a oneliner if statement
 2. oneliner `if/unless` statement must have characters's length less than half of screen view + NerdTree 
-
+3. for oneliner if statement avoid negation `!` syntax
 
 #### 4. View -> SLIM Template engine
 > How to handle if element that have many attribute(dataset, etc.) which cause to a long oneline code?
